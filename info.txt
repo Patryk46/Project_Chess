@@ -1,1 +1,3 @@
-Projekt zaliczeniowy z programowania
+Projekt zaliczeniowy z programowania obiektowego i graficznego
+Informatyka RMS semestr IV
+Patryk Rozynek i Michał Rozynek
